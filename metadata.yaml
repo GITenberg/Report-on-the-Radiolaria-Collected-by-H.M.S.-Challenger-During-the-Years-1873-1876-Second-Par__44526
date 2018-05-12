@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2037
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44526#Report-on-the-Radiolaria-Collected-by-H.M.S.-Challenger-During-the-Years-1873-1876-Second-Par_
 gutenberg_issued: '2013-12-28'
 gutenberg_type: Text
 identifiers:
